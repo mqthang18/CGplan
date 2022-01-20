@@ -140,15 +140,15 @@ var PostData = [
         `
     },
     {
-        'Index': "",
-        'Label': "",
+        'Index': "Bản đồ sử dụng",
+        'Label': "Map",
         'Content': `
 
         `
     },
     {
-        'Index': "",
-        'Label': "",
+        'Index': "Kết quả",
+        'Label': "Result",
         'Content': `
 
         `
