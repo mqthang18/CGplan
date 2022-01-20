@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Can Gio project</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+  <style>
+    /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+    .row.content {min-height: 91.5vh;}
+    
+    /* Set gray background color and 100% height */
+    .sidenav {
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height: auto;} 
+    }
+  </style>
+</head>
+<body>
+
+<div class="container-fluid">
+  <div class="row content">
+    <div id="header"></div>
+
+    <div class="col-sm-9">
+        <div id="post">
+            <h4><small>RECENT POSTS</small></h4>
+            <hr>
+            <h2>Dự án Cần giờ</h2>
+            <h5><span class="glyphicon glyphicon-time"></span> Post by MQT, Jan 01, 2022.</h5>
+            <h5><span class="label label-danger">Environmental</span> <span class="label label-primary">Datascience</span></h5><br>
+            <h5>Dự án bao gồm 3 chuyên đề chính</h5>
+            <ol>
+              <li><span style="text-decoration: underline; color: red;">Mô phỏng diễn thế sinh thái:</span> nhằm mục đích tái hiện được quá trình phục hồi của rừng ngập mặn sau khi bị bão Duran tác động dựa trên mô hình Connell-Slatyer với cơ chế nội diễn thế bên trong quần thể, không xem xét đến các tác động từ bên ngoài khu vực và sự xuất nhập cư!</li>
+              <li><span style="text-decoration: underline; color: red;">Đánh giá tính kết nối sinh cảnh:</span> Dựa trên mức độ Blue carbon được cô lập trong suốt khoảng thời gian từ năm 2007 trở đi để đánh giá được khả năng kết nối của sinh cảnh</li>
+              <li><span style="text-decoration: underline; color: red;">Đánh giá rủi ro sinh cảnh:</span> Dựa trên hiểu biết về của các chuyên gia, kiểm lâm tại khu vực để mô tả phương thức tác động của các tác nhân đến sinh cảnh</li>
+            </ol>
+            <br><br>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div id="footer"></div>
+<script src="main.js"></script>
+</body>
+</html>
