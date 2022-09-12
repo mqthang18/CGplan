@@ -45,11 +45,11 @@ var PostData = [
         "Index": "Dữ liệu tham khảo từ các bài báo và lọc ra từ dữ liệu thô",
         "Label": "Data",
         "Content": `
-            <p><a href="https://docs.google.com/spreadsheets/d/1MqLYAFR4mJQJrE_OqbhhEqMCyw70yp8B/edit?usp=sharing&ouid=103377131320564328842&rtpof=true&sd=true" target="_blank">Bảng dữ liệu 1. Dữ liệu sưu tầm và tự tính toán từ dữ liệu thô</a></p>
-            <iframe style="width:100%; height: 60vh;" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS845L_2fpKu4ZFxSu_fPAT0NjPBNOxQ-f3OExGsqaIartEki0FEcNynlI9u2LImQ/pubhtml?widget=true&amp;headers=false"></iframe>
+            <p><a href="https://docs.google.com/spreadsheets/d/1vO681FKYyk3H78HcTP33aLxxfO2YapI5/edit?usp=sharing&ouid=107878956365166683585&rtpof=true&sd=true" target="_blank">Bảng dữ liệu 1. Dữ liệu sưu tầm và tự tính toán từ dữ liệu thô</a></p>
+            <iframe style="width:100%; height: 60vh;" scrolling="no" src="https://docs.google.com/spreadsheets/d/1vO681FKYyk3H78HcTP33aLxxfO2YapI5/edit?usp=sharing&ouid=107878956365166683585&rtpof=true&sd=true"></iframe>
             <br>
-            <p><a href="https://docs.google.com/spreadsheets/d/1RehUju2d4kermiKWCgWU4TcRCCoKok0b/edit?usp=sharing&ouid=103377131320564328842&rtpof=true&sd=true" target="_blank">Bảng dữ liệu 2. Thống kê các vùng từ tóm tắt của cô Thi</a></p>
-            <iframe style="width:100%; height: 60vh;" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWN7ghB8nZZwb-xCKJqek43Kt4yqiOz1tbRvkB-FVoZYrvH6lWfbXruJ5pD2BBOw/pubhtml?widget=true&amp;headers=false"></iframe>
+            <p><a href="https://docs.google.com/spreadsheets/d/163FHcGE7iN0msJpEcvswFyUb-5FudJbx/edit?usp=sharing&ouid=107878956365166683585&rtpof=true&sd=true" target="_blank">Bảng dữ liệu 2. Thống kê các vùng từ tóm tắt của cô Thi</a></p>
+            <iframe style="width:100%; height: 60vh;" scrolling="no" src="https://docs.google.com/spreadsheets/d/163FHcGE7iN0msJpEcvswFyUb-5FudJbx/edit?usp=sharing&ouid=107878956365166683585&rtpof=true&sd=true"></iframe>
             <p>Từ dữ liệu bảng 2, ta được:</p>:
             <ul>
                 <li>
@@ -153,7 +153,7 @@ var PostData = [
         "Index": "Dữ liệu đầu vào mô hình",
         "Label": "DataModel",
         "Content": `
-            <h4><a href="https://drive.google.com/drive/folders/1YgDx6UBW-arWHlrioERwvzBDfpF47_ay?usp=sharing" target="_blank">Download các file đầu vào mô hình từ thư mục này</a></h4>
+            <h4><a href="https://drive.google.com/drive/folders/0BwiPM3jt_O2RfmJESHFmSDM2dkhvVzhCelFhS05EUFk0bmtQRUJyRFMzdjA4Ul9ZWktqbk0?resourcekey=0-lH5jDq5ZwjfRMK60ioFcMA&usp=sharing" target="_blank">Download các file đầu vào mô hình từ thư mục này</a></h4>
         `,
     },
     {
