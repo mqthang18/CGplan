@@ -1,6 +1,6 @@
 var tempPost = `
         <div id="post" style="margin-bottom: 300px;">
-            <h4><small>RECENT POSTS</small></h4>
+            <h4><small>Can Gio project</small></h4>
             <hr>
             <h2 style="font-weight: 800;">Diễn thế sinh thái - Ecological Succession</h2>
             <h5><span class="glyphicon glyphicon-time"></span> Post by {{ PostInfo['author'] }}, {{ PostInfo['Month'] }} {{ PostInfo['Date'] }}, {{ PostInfo['Year'] }}.</h5>
