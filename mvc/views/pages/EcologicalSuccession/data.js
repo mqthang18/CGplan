@@ -159,6 +159,6 @@ var PostData = [
     {
         "Index": "Kết quả mô hình",
         "Label": "Result",
-        "Content": "Nội dung",
+        "Content": "",
     }
 ]

@@ -51,30 +51,30 @@ var PostData = [
                 </tr>
                 <tr>
                     <td>recruitment rate</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>1</td>
+                    <td>3</td>
+                    <td>3</td>
                     <td>C</td>
                 </tr>
                 <tr>
                     <td>natural mortability</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>0</td>
+                    <td>3</td>
+                    <td>3</td>
                     <td>C</td>
                 </tr>
                 <tr>
                     <td>connectivity rate</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>0</td>
+                    <td>3</td>
+                    <td>3</td>
                     <td>C</td>
                 </tr>
                 <tr>
                     <td>recovery time</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>3</td>
                     <td>C</td>
                 </tr>
                 <tr>
@@ -96,44 +96,44 @@ var PostData = [
                 </tr>
                 <tr>
                     <td>frequency of disturbance</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>0</td>
+                    <td>3</td>
+                    <td>3</td>
                     <td>C</td>
                 </tr>
                 <tr>
                     <td>change in area rating</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>1</td>
+                    <td>3</td>
+                    <td>3</td>
                     <td>C</td>
                 </tr>
                 <tr>
                     <td>change in structure rating</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>1</td>
+                    <td>3</td>
+                    <td>3</td>
                     <td>C</td>
                 </tr>
                 <tr>
                     <td>temporal overlap rating</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>3</td>
+                    <td>3</td>
+                    <td>3</td>
                     <td>E</td>
                 </tr>
                 <tr>
                     <td>management effiveness</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>1</td>
+                    <td>3</td>
+                    <td>3</td>
                     <td>E</td>
                 </tr>
                 <tr>
                     <td>intensity rating</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>1</td>
+                    <td>3</td>
+                    <td>3</td>
                     <td>E</td>
                 </tr>
             </table>
@@ -143,14 +143,14 @@ var PostData = [
         'Index': "Bản đồ sử dụng",
         'Label': "Map",
         'Content': `
-
+            <a href="https://drive.google.com/drive/folders/1-ICLhgoxPxAzvblCFdw27GsKJrgQvVRG?usp=sharing" target="_blank">Thư mục download bản đồ dữ liệu đầu vào</a>
         `
     },
     {
         'Index': "Kết quả",
         'Label': "Result",
         'Content': `
-
+            <a href="https://code.earthengine.google.com/506360ea37f7250b57ee19688298eb36?hideCode=true" target="_blank">Link</a>
         `
     }
 ]
